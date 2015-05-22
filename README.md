@@ -7,7 +7,7 @@ Docker build the lnmp for 273
 1 [CentOS](https://docs.docker.com/installation/centos/) <br/>
 2 [Ubuntu](https://docs.docker.com/installation/ubuntulinux/) <br />
 3 [Mac](https://docs.docker.com/installation/mac/) <br/>
-4 [more...](https://docs.docker.com/installation/)<br />
+4 [More...](https://docs.docker.com/installation/)<br />
 
 ## How to build our own images
 
