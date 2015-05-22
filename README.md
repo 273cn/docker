@@ -15,7 +15,7 @@ the way of [offical] (https://docs.docker.com/userguide/dockerimages/#creating-o
 
 
 ## build 273lnmp  through dockerfile
-enter the Dockerfile path and exec: 
+enter the Dockerfile path and exec:<br/> 
 docker build -t 273lnmp .
 
 
